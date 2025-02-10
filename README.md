@@ -69,3 +69,11 @@ Adding agents (workers) to handle incoming support requests and ensure they are 
 Adding users (customers) to submit tickets for technical support, billing inquiries, product issues, or general question through email, a web portal or other channels. 
 </p>
 <br />
+
+
+![image](https://github.com/user-attachments/assets/de1cae05-c55f-4191-bf61-4ffad454e8c6)
+</p>
+<p>
+Adding SLAs to set clear expectations for how quickly tickets should be acknowledged, responded to, and resolved based on priority levels.
+</p>
+<br />
