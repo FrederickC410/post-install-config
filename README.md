@@ -47,9 +47,17 @@ Adding a Admin department to function as a central hub to monitor, assign, and m
 <br />
 
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/3e0fd52d-4b7e-4d63-bc8c-13865b33ef4a)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Adding a specialized team ensures that customers with online banking problems—such as login issues, transaction failures, or security concerns—receive expert assistance.
+</p>
+<br />
+
+
+![image](https://github.com/user-attachments/assets/3e0fd52d-4b7e-4d63-bc8c-13865b33ef4a)
+</p>
+<p>
+Adding a specialized team ensures that customers with online banking problems—such as login issues, transaction failures, or security concerns—receive expert assistance.
 </p>
 <br />
