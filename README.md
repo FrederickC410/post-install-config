@@ -55,9 +55,17 @@ Adding a specialized team ensures that customers with online banking problems—
 <br />
 
 
-![image](https://github.com/user-attachments/assets/3e0fd52d-4b7e-4d63-bc8c-13865b33ef4a)
+![image](https://github.com/user-attachments/assets/bf8f0c44-04d1-474a-80e9-5683571d5589)
 </p>
 <p>
-Adding a specialized team ensures that customers with online banking problems—such as login issues, transaction failures, or security concerns—receive expert assistance.
+Adding agents (workers) to handle incoming support requests and ensure they are resolved within the required timeframe. They can be assigned specific tickets based on expertise, priority, or department.
+</p>
+<br />
+
+
+![image](https://github.com/user-attachments/assets/667ef35a-c991-4ecd-96ef-2ece54a59d87)
+</p>
+<p>
+Adding users (customers) to submit tickets for technical support, billing inquiries, product issues, or general question through email, a web portal or other channels. 
 </p>
 <br />
