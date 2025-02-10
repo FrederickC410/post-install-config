@@ -80,7 +80,7 @@ Adding SLAs to set clear expectations for how quickly tickets should be acknowle
 
 
 ![image](https://github.com/user-attachments/assets/8445422d-4361-4098-aa68-66d6c1d9d629)
-/p>
+</p>
 <p>
 Adding help topics to allow users to select the nature of their issue when submitting a ticket, ensuring it's routed to the correct department or team.
 </p>
